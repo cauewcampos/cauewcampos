@@ -1,5 +1,4 @@
-# 👨🏻‍💻 Cauê Watanabe de Campos &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp; ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
+# 👨🏻‍💻 Cauê Watanabe de Campos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 
 
