@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Cauê Watanabe de Campos
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 Olá! Sou desenvolvedor Full Stack, e me sinto confortável atuando tanto no **frontend** quanto no **backend**. Tenho experiência com tecnologias modernas como **React**, **Node.js**, **TypeScript**, e também com infraestrutura de nuvem na **AWS**, onde possuo a certificação **Cloud Practitioner**.
 
