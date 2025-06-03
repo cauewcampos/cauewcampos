@@ -1,11 +1,5 @@
-<table>
-  <tr>
-    <td><strong style="font-size: 26px;">👨🏻‍💻 Cauê Watanabe de Campos</strong></td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-    </td>
-  </tr>
-</table>
+# 👨🏻‍💻 Cauê Watanabe de Campos &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp; ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
 
 
 
