@@ -2,9 +2,7 @@
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-Olá! Sou desenvolvedor Full Stack, e me sinto confortável atuando tanto no **frontend** quanto no **backend**. Tenho experiência com tecnologias modernas como **React**, **Node.js**, **TypeScript**, e também com infraestrutura de nuvem na **AWS**, onde possuo a certificação **Cloud Practitioner**. Atualmente atuo como estagiário em programação, desenvolvendo soluções web com foco em front-end e back-end. Trabalho com HTML, CSS, SCSS, TailwindCSS e JavaScript para criar interfaces responsivas e dinâmicas. No back-end, dou suporte ao desenvolvimento em PHP, especialmente em integrações e soluções para WordPress, incluindo customização de temas, criação de plugins e otimização de sites. Estou em constante aprendizado, sempre buscando novas tecnologias e melhorias nos processos de desenvolvimento para entregar resultados de qualidade.
-
-Estou sempre em busca de novos desafios, aprendizados e oportunidades para criar produtos que gerem valor real.
+Olá! Sou desenvolvedor Full Stack, e me sinto confortável atuando tanto no **frontend** quanto no **backend**. Tenho experiência com tecnologias modernas como **React**, **Node.js**, **TypeScript**, e também com infraestrutura de nuvem na **AWS**, onde possuo a certificação **Cloud Practitioner**. Atualmente atuo como estagiário desenvolvendo soluções web com foco em front-end e back-end. Trabalho com HTML, CSS, SCSS, TailwindCSS e JavaScript para criar interfaces responsivas e dinâmicas. No back-end, dou suporte ao desenvolvimento em PHP, especialmente em integrações e soluções para WordPress, incluindo customização de temas. Estou em constante aprendizado, sempre buscando novas tecnologias e melhorias nos processos de desenvolvimento para entregar resultados de qualidade.
 
 <div> 
   <a href="https://instagram.com/cauewcampos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
