@@ -14,9 +14,12 @@ Estou sempre em busca de novos desafios, aprendizados e oportunidades para criar
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauewcampos&show_icons=true&theme=github_dark&hide_title=false&hide_rank=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauewcampos&layout=compact&theme=github_dark" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=cauewcampos&show_icons=true&theme=github_dark&cache_seconds=86400" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauewcampos&layout=compact&theme=github_dark&cache_seconds=86400" />
 </p>
+
 
 ---
 
