@@ -14,12 +14,11 @@ Estou sempre em busca de novos desafios, aprendizados e oportunidades para criar
 ---
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=cauewcampos&show_icons=true&theme=github_dark&cache_seconds=86400" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauewcampos&layout=compact&theme=github_dark&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cauewcampos&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauewcampos&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
