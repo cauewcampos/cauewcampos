@@ -17,7 +17,7 @@ Estou sempre em busca de novos desafios, aprendizados e oportunidades para criar
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cauewcampos&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauewcampos&layout=compact&theme=panda" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauewcampos&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
 ---
